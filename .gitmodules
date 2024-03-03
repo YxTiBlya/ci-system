@@ -1,0 +1,15 @@
+[submodule "ci-api"]
+	path = ci-api
+	url = https://github.com/YxTiBlya/ci-api
+[submodule "ci-core"]
+	path = ci-core
+	url = https://github.com/YxTiBlya/ci-core
+[submodule "ci-monitor"]
+	path = ci-monitor
+	url = https://github.com/YxTiBlya/ci-monitor
+[submodule "ci-scheduler"]
+	path = ci-scheduler
+	url = https://github.com/YxTiBlya/ci-scheduler
+[submodule "ci-executor"]
+	path = ci-executor
+	url = https://github.com/YxTiBlya/ci-executor
